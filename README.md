@@ -7,11 +7,11 @@ This project’s main goal is to study a user’s search interest
 and recommend k-dramas that match their interests. This final year project 
 makes one understand the mechanisms of recommendation engines.
 
-##How to run this project
-->clone the repository shaili-jain/Magic-shop
-->Install all the required libraries mentioned in the the requirements text.
-->open the anaconda prompt
-->go to the location where you have downloaded this project
-->write the below command:
-	streamlit run magic_shop.py
-->web application will run on local host in your browser 
+## How to run this project
+->clone the repository shaili-jain/Magic-shop</br>
+->Install all the required libraries mentioned in the the requirements text</br>
+->open the anaconda prompt</br>
+->go to the location where you have downloaded this project</br>
+->write the below command:</br>
+	streamlit run magic_shop.py</br>
+->web application will run on local host in your browser </br>
