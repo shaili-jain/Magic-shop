@@ -61,7 +61,7 @@ def text_to_vector(text):
 
 
 option = st.selectbox(
-     'Choose recommedations based on:',
+     'Choose recommendations based on:',
      ('Genre','Cast','Director','Screen Writer','Director & Screen Writer'))
 
 top = st.slider('Swoon into our top N recommendations', 0, 100, 10)
