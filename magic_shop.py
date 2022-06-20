@@ -170,3 +170,4 @@ if st.button('Recommend'):
 				st.caption(recommended_synopsis[i])
 				st.text("")
 				st.text("")
+st.markdown("Created By **Shaili Jain** & **Jyoti Rajpurohit**")
